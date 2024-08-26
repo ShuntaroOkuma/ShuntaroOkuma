@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShuntaroOkuma&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-eight-lyart-86.vercel.app/api/top-langs/?username=ShuntaroOkuma&layout=compact&theme=tokyonight&exclude_repo=github-readme-stats,NanoVNA2-firmware)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHubStatsByOwnVercelDeployment](https://github-readme-stats-eight-lyart-86.vercel.app/api?username=ShuntaroOkuma&show_icons=true&layout=compact&theme=tokyonight)](https://github-readme-stats-eight-lyart-86.vercel.app/api?username=ShuntaroOkuma&show_icons=true)
+[![GitHubStatsByOwnVercelDeployment](https://github-readme-stats-eight-lyart-86.vercel.app/api?username=ShuntaroOkuma&show_icons=true&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHubTrophyByOwnVercelDeployment](https://github-profile-trophy-git-master-shuntarookumas-projects.vercel.app/?username=ShuntaroOkuma&margin-w=5&margin-h=5&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
