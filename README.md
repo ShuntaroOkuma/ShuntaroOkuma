@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShuntaroOkuma&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHubStatsByOwnVercelDeployment](https://github-readme-stats-eight-lyart-86.vercel.app/api?username=ShuntaroOkuma&show_icons=true&layout=compact&theme=tokyonight)](https://github-readme-stats-eight-lyart-86.vercel.app/api?username=ShuntaroOkuma&show_icons=true)
