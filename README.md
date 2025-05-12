@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 
 [![GitHubStatsByOwnVercelDeployment](https://github-readme-stats-eight-lyart-86.vercel.app/api?username=ShuntaroOkuma&show_icons=true&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 [![GitHubTrophyByOwnVercelDeployment](https://github-profile-trophy-git-master-shuntarookumas-projects.vercel.app/?username=ShuntaroOkuma&margin-w=5&margin-h=5&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+-->
